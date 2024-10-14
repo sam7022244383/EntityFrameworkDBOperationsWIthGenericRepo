@@ -1,0 +1,14 @@
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.csproj.AssemblyReference.cache
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.AssemblyInfoInputs.cache
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.AssemblyInfo.cs
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.csproj.CoreCompileInputs.cache
+D:\Sami\System Design\Entity Framework Core Learning\DBService\bin\Debug\net7.0\DBService.deps.json
+D:\Sami\System Design\Entity Framework Core Learning\DBService\bin\Debug\net7.0\DBService.runtimeconfig.json
+D:\Sami\System Design\Entity Framework Core Learning\DBService\bin\Debug\net7.0\DBService.dll
+D:\Sami\System Design\Entity Framework Core Learning\DBService\bin\Debug\net7.0\DBService.pdb
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.dll
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\refint\DBService.dll
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.pdb
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\DBService.genruntimeconfig.cache
+D:\Sami\System Design\Entity Framework Core Learning\DBService\obj\Debug\net7.0\ref\DBService.dll

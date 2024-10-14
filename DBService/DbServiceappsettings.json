@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=.;Database=EFCoreOperations;Integrated Security=true;TrustServerCertificate=true;"
+  }
+}

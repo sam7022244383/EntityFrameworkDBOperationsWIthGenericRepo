@@ -1,4 +1,6 @@
 
+using DBService;
+
 namespace EntityFrameworkCOre_DBOperation_GenericRepo
 {
     public class Program
@@ -13,7 +15,7 @@ namespace EntityFrameworkCOre_DBOperation_GenericRepo
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            DBServiceConfigurations.ExecuteDbServiceConfigurations(builder.Services);
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
