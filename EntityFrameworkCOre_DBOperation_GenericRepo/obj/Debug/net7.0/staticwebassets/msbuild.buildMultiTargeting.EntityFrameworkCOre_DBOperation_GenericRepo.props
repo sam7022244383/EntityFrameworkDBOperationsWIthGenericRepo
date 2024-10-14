@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EntityFrameworkCOre_DBOperation_GenericRepo.props" />
+</Project>
